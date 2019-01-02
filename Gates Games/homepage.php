@@ -40,7 +40,7 @@
 
               <div class="col-lg-3 col-sm-6 col-md-4 portfolio-item game">
                 <a href="#">
-                    <driv class="card h-60 game-card">
+                    <div class="card h-60 game-card">
                       <img class="card-img-top" alt="" src="images/700x300.png">
                       <div class="card-footer">
                           <h6 class="card-title">

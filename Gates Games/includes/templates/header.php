@@ -11,13 +11,13 @@
         <!-- Index-Page-CSS -->
         <!--<link rel="stylesheet" href="layout/css/style.css"		   type="text/css" media="all">-->
         <!-- Owl-Carousel-CSS -->
-        <link rel="stylesheet" href="layout/css/owl.carousel.css"   type="text/css" media="all">
+        <link rel="stylesheet" href="<?php echo $css; ?>owl.carousel.css"   type="text/css" media="all">
         <!-- Chocolat-CSS -->
         <!--<link rel="stylesheet" href=layout/"css/chocolat.css"	   type="text/css" media="all">-->
         <!-- Animate-CSS -->
         <!--<link rel="stylesheet" href="layout/css/animate-custom.css" type="text/css" media="all">-->
         <!--
-            <link href="css/mdb.min.css" rel="stylesheet">
+        <link href="layout/css/mdb.min.css" rel="stylesheet">
         -->
 
         <link rel="stylesheet" href="<?php echo $css; ?>frontend.css">
